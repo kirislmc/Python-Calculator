@@ -1,14 +1,13 @@
-Simple Python Calculator
-About the Project
-This is a simple CLI Calculator written in Python. I created this project as part of my learning process while studying Python (inspired by Bro Code) to practice user input, data types, and conditional logic.
+# Simple Python Calculator
 
-🧮 How It Works
+## About the Project
+This is a simple CLI **Calculator** written in Python. I created this project as part of my learning process while studying Python (inspired by Bro Code) to practice user input, data types, and conditional logic.
+BroCode Youtube Channel: https://www.youtube.com/@BroCodez
+
+
+## 🧮 How It Works
 The program:
-
 Asks the user to enter two numbers.
-
 Asks for an operator (choose between +, -, *, or /).
-
 Uses IF statements to determine which mathematical operation to perform.
-
 Prints the result of the calculation to the console.
