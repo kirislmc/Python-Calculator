@@ -1,0 +1,31 @@
+operator: str = input("Which Operator you want to use? (+ - * /): ")
+
+if operator == "+":
+    num1: float = float(input("Enter the 1st Number: "))
+    num2: float = float(input("Enter the 2nd Number: "))
+    summary = num1 + num2 
+    print(f"{num1} + {num2} = {round(summary, 2)} ")
+
+elif operator == "-":
+    num1: float = float(input("Enter the 1st Number: "))
+    num2 = float(input("Enter the 2nd Number: "))
+    summary = num1 - num2 
+    print(f"{num1} - {num2} = {round(summary, 2)} ")
+
+elif operator == "*":
+    num1: float = float(input("Enter the 1st Number: "))
+    num2: float = float(input("Enter the 2nd Number: "))
+    summary = num1 * num2 
+    print(f"{num1} * {num2} = {round(summary, 2)} ")
+
+elif operator == "/":
+    num1: float = float(input("Enter the 1st Number: "))
+    num2: float = float(input("Enter the 2nd Number: "))
+    summary = num1 / num2 
+    print(f"{num1} : {num2} = {round(summary, 2)} ")
+
+else:
+    print(f"{operator} is an invalid operator! ")
+
+
+
