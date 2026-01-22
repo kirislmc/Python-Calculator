@@ -8,7 +8,7 @@ if operator == "+":
 
 elif operator == "-":
     num1: float = float(input("Enter the 1st Number: "))
-    num2 = float(input("Enter the 2nd Number: "))
+    num2: float = float(input("Enter the 2nd Number: "))
     summary = num1 - num2 
     print(f"{num1} - {num2} = {round(summary, 2)} ")
 
