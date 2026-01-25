@@ -22,34 +22,4 @@ if operator == "+" or operator == "-" or operator == "*" or operator == "/":
 
 else:
     print(f"{operator} is an invalid operator!")
-
-
-
-
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
