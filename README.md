@@ -1,9 +1,7 @@
 # Simple Python Calculator
 
 ## About the Project
-This is a simple CLI **Calculator** written in Python. I created this project as part of my learning process while studying Python (inspired by Bro Code) to practice user input, data types, and conditional logic.
-BroCode Youtube Channel: https://www.youtube.com/@BroCodez
-
+This is a simple CLI **Calculator** written in Python. I created this project as part of my learning process while studying Python (inspired by [**BroCode**](https://www.youtube.com/@BroCodez)) to practice user input, data types, and conditional logic.
 
 ## 🧮 How It Works
 The program:
